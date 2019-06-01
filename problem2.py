@@ -22,7 +22,5 @@ def calculate_sum(n):
     return sm
 
 
-# Driver program to test
-# above function
 n = 4
 print("Sum of Fibonacci numbers is : ", calculate_sum(n))
