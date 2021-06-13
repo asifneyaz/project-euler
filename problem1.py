@@ -4,3 +4,6 @@ for i in range(1, 1001):
         sum_of_multiples = sum_of_multiples + i
 print(sum_of_multiples)
 
+
+
+
